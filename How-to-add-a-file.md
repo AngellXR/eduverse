@@ -10,6 +10,8 @@ It can feel a bit intimidating at first, especially for those who do not have a 
 
 ### Option 2: You can create a new note from scratch (keep in mind, you can add ".md" at the end to create a [markdown](https://www.markdownguide.org/basic-syntax/) file
 
+### Option 3: A third option is to add a link to the existing document, readme, or workspace of your choice. This can be a google doc, figma file, notion, or anything else. To add a link you want to put your link inside of brackets [ link ] and then you want to follow that immediately with a link inside of parenthesis (link goes in here).
+
 - [x] by the way you can add to-do's pretty easily too. 
 - [ ] although, you may prefer a different to-do tool. 
 
