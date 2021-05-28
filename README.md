@@ -27,3 +27,13 @@ _Love explicitly calling out the first two. I actually think that’s something 
 - These repos are able to hold links to any other docs or workspaces. So whether its figma or flipgrid, we can link to the places work is happening, and help close some of the gaps. Hopefully, this will help us measure progress, set the right goals, and grow. 
 - If you want to create a quick note in this repo, click "Add File" and give your new note a name. If you end the name with ".md" it will format the doc as a markdown file. To learn more about markdown, please see the link above. 
 - Work where you are most comfortable, just hook on your work here in the readme, or in a comment in discussions.🥳
+
+## Next steps 
+- What are we missing here? 
+- Why is this hackathon important? 
+- How do we want to promote this event? 
+- Who are potential key partners? 
+- What do we hope to achieve (objectives) 
+- Things to avoid
+- Begin documentation (establish some curriculum. Let's explore this deeper) 
+- Review this readme, is there any information we could tell in a better way? How might we iterate on our documentation to ensure it is clear for all who join later? 
