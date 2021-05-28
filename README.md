@@ -29,11 +29,14 @@ _Love explicitly calling out the first two. I actually think that’s something 
 - Work where you are most comfortable, just hook on your work here in the readme, or in a comment in discussions.🥳
 
 ## Next steps 
-- What are we missing here? 
-- Why is this hackathon important? 
-- How do we want to promote this event? 
-- Who are potential key partners? 
-- What do we hope to achieve (objectives) 
-- Things to avoid
-- Begin documentation (establish some curriculum. Let's explore this deeper) 
-- Review this readme, is there any information we could tell in a better way? How might we iterate on our documentation to ensure it is clear for all who join later? 
+- [x] Placeholder logo 
+- [x] Placeholder site
+- [x] Set up discord for eduverse (hackathon in angell discord, but we can leverage both with a objective of growing both communities) 
+- [ ] What are we missing here? 
+- [ ] Why is this hackathon important? 
+- [ ] How do we want to promote this event? 
+- [ ] Who are potential key partners? 
+- [ ] What do we hope to achieve (objectives) 
+- [ ] Things to avoid
+- [ ] Begin documentation (establish some curriculum. Let's explore this deeper) 
+- [ ] Review this readme, is there any information we could tell in a better way? How might we iterate on our documentation to ensure it is clear for all who join later? 
