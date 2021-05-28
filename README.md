@@ -40,3 +40,12 @@ _Love explicitly calling out the first two. I actually think that’s something 
 - [ ] Things to avoid
 - [ ] Begin documentation (establish some curriculum. Let's explore this deeper) 
 - [ ] Review this readme, is there any information we could tell in a better way? How might we iterate on our documentation to ensure it is clear for all who join later? 
+
+
+### notes from 05/28/21:
+
+Largely community driven 
+Accessible by anyone who wants to be part of that 
+How might we ensure that the experiences have a place to live without going broke? Do we follow the showcasexr model? 
+
+
