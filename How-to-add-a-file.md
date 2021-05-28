@@ -12,3 +12,7 @@ It can feel a bit intimidating at first, especially for those who do not have a 
 
 <img width="1382" alt="Screen Shot 2021-05-27 at 10 16 43 PM" src="https://user-images.githubusercontent.com/63426722/119919968-81ffd400-bf39-11eb-80b6-c240a483cc1b.png">
 
+### Click on the doc name on the left side, to view the file as a page. 
+<img width="1382" alt="Screen Shot 2021-05-27 at 10 16 43 PM" src="https://user-images.githubusercontent.com/63426722/119919968-81ffd400-bf39-11eb-80b6-c240a483cc1b.png">
+
+### Click the link of the right side to view the previous changes. 
