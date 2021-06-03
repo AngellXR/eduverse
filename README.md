@@ -48,4 +48,6 @@ Largely community driven
 Accessible by anyone who wants to be part of that 
 How might we ensure that the experiences have a place to live without going broke? Do we follow the showcasexr model? 
 
+### Recent update on Flipgrid: 
+[06/03/2021](https://flipgrid.com/s/29Laz7rBadFL)
 
