@@ -5,6 +5,7 @@
 - Our brainstorm was started in [Figjam](https://www.figma.com/file/TX7WYdWcIVsz9zfSsU55tF/EnterTheEduVerse-planning)
 - Hackathon planning [template](https://docs.google.com/document/d/1LnhxAMrmj5bwuEU0h7VMZAIg7UeeVQF3LimUGNbpigE/edit?usp=sharing)
 - We can use any channels on the AngellXR discord. I encourage the team to pull in others from our community in the planning and execcution. 
+- @mrawhite made [this website](https://eduverse.io/) using this [repo](https://github.com/mrawhite/eduverse/)
 
 ## Requirements for experiences: 
 - Cross platform 
